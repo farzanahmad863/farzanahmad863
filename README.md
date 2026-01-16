@@ -25,7 +25,7 @@
 
 <br />
 
-### See you again, and please don't hesitate to connect on Linnkedin here :point_right: [<img alt="farzan-ahmad863 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### See you again, and let's connect on Linnkedin :point_right: [<img alt="farzan-ahmad863 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/farzan-ahmad863/
 
 <!---
